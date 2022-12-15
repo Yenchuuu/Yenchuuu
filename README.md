@@ -3,7 +3,7 @@
 - 🌱 Junior Back-End developer
 - 📫 Contact me via email: shin180555@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yenchuuu&show_icons=true&theme=noctis_minimus" style="width: 400px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yenchuuu&layout=compact&show_icons=true&theme=noctis_minimus" style="width: 390px" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=Yenchuuu&show_icons=true&theme=noctis_minimus" style="width: 400px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yenchuuu&layout=compact&show_icons=true&theme=noctis_minimus" style="width: 335px" /> 
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
